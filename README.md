@@ -3,10 +3,11 @@ pointr - Award your friends Points!!
 
 ## Synopsis
 
-_pointr_** is the third project from Fats Inc and formed the final part of our Final Project on the Makers Academy Bootcamp. _pointr_** is a native iOS which allows users to friend their friends and award them points (from 1 to 10). A simple App, but this was our first venture into Swift and Xcode and was produced in under a week. We used Parse for our database. We were aided in our learning by [Ray Wednerlich's Tutorials](http://www.raywenderlich.com) and received some valuable input from @neilkimmett too (thank you Neil!).
+**_pointr_** is the third project from Fats Inc and formed the final part of our Final Project on the Makers Academy Bootcamp. **_pointr_** is a native iOS App which allows users to friend their friends and award them points (from 1 to 10). A simple App, but this was our first venture into Swift and Xcode and was produced in under a week. We used Parse for our database. We were aided in our learning by [Ray Wednerlich's Tutorials](http://www.raywenderlich.com) and received some valuable input from @neilkimmett too (thank you Neil!).
 
-![Screen Shot One](http://ENTER_URL)
-![Screen Shot Two](http://ENTER_URL)
+![Screen Shot Login](https://raw.githubusercontent.com/HatStephens/pointr_iOS_FinalProjectApp/master/ScreenShots/pointr_log_in_image.png)
+![Screen Shot My Points](https://raw.githubusercontent.com/HatStephens/pointr_iOS_FinalProjectApp/master/ScreenShots/pointr_my_points_image.png)
+![Screen Shot Send Points](https://raw.githubusercontent.com/HatStephens/pointr_iOS_FinalProjectApp/master/ScreenShots/pointr_send_points_image.png)
 
 
 ## Technologies Used

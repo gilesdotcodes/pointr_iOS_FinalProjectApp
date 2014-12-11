@@ -34,7 +34,7 @@ This may seem like a very basic snippet of code, but it took us a long, long tim
 
 - @andrewhercules (http://www.github.com/andrewhercules)
 - @HatStephens (http://www.github.com/HatStephens)
-- @scully87 (http://www.github.com/scully87)
+- Scully87 (http://www.github.com/Scully87)
 - @fadieh (http://www.github.com/fadieh)
 
 ## Still to complete/refactor
